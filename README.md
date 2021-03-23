@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
+* [Libraries](#libraries)
 * [Status](#status)
 
 ## General info
@@ -21,14 +22,11 @@ Source of data: Airbnb, Ottawa, 2016
 
 ![Chart 'the Elbow' - helps figure out number of clusters](./images/elbow.png)
 
-## Technologies
-* Python 3.8
-* Spyder IDE 4.1.5
-* Libraries:
-        1. NumPy
-        2. Pandas
-        3. Pyplot from Matplotlib
-        4. KMeans from Sklearn.cluster
+## Libraries
+* NumPy
+* Pandas
+* Pyplot from Matplotlib
+* KMeans from Sklearn.cluster
 
 ## Status
 This project is finished because it was just for learning.
